@@ -1,0 +1,12 @@
+C:\Users\Joshua Budd\OneDrive\College\Spring 2017\CSE230 ADV VISUAL BASIC DEVELOPMENT\Week 12\CRUD Lab\CRUD Lab\bin\Debug\CRUD Lab.exe.config
+C:\Users\Joshua Budd\OneDrive\College\Spring 2017\CSE230 ADV VISUAL BASIC DEVELOPMENT\Week 12\CRUD Lab\CRUD Lab\bin\Debug\people.mdf
+C:\Users\Joshua Budd\OneDrive\College\Spring 2017\CSE230 ADV VISUAL BASIC DEVELOPMENT\Week 12\CRUD Lab\CRUD Lab\bin\Debug\people_log.ldf
+C:\Users\Joshua Budd\OneDrive\College\Spring 2017\CSE230 ADV VISUAL BASIC DEVELOPMENT\Week 12\CRUD Lab\CRUD Lab\bin\Debug\CRUD Lab.exe
+C:\Users\Joshua Budd\OneDrive\College\Spring 2017\CSE230 ADV VISUAL BASIC DEVELOPMENT\Week 12\CRUD Lab\CRUD Lab\bin\Debug\CRUD Lab.pdb
+C:\Users\Joshua Budd\OneDrive\College\Spring 2017\CSE230 ADV VISUAL BASIC DEVELOPMENT\Week 12\CRUD Lab\CRUD Lab\bin\Debug\CRUD Lab.xml
+C:\Users\Joshua Budd\OneDrive\College\Spring 2017\CSE230 ADV VISUAL BASIC DEVELOPMENT\Week 12\CRUD Lab\CRUD Lab\obj\Debug\CRUD_Lab.Form1.resources
+C:\Users\Joshua Budd\OneDrive\College\Spring 2017\CSE230 ADV VISUAL BASIC DEVELOPMENT\Week 12\CRUD Lab\CRUD Lab\obj\Debug\CRUD_Lab.Resources.resources
+C:\Users\Joshua Budd\OneDrive\College\Spring 2017\CSE230 ADV VISUAL BASIC DEVELOPMENT\Week 12\CRUD Lab\CRUD Lab\obj\Debug\CRUD Lab.vbproj.GenerateResource.Cache
+C:\Users\Joshua Budd\OneDrive\College\Spring 2017\CSE230 ADV VISUAL BASIC DEVELOPMENT\Week 12\CRUD Lab\CRUD Lab\obj\Debug\CRUD Lab.exe
+C:\Users\Joshua Budd\OneDrive\College\Spring 2017\CSE230 ADV VISUAL BASIC DEVELOPMENT\Week 12\CRUD Lab\CRUD Lab\obj\Debug\CRUD Lab.xml
+C:\Users\Joshua Budd\OneDrive\College\Spring 2017\CSE230 ADV VISUAL BASIC DEVELOPMENT\Week 12\CRUD Lab\CRUD Lab\obj\Debug\CRUD Lab.pdb
